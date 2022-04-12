@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: de.flapdoodle.embed:de.flapdoodle.embed.process:3.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.flapdoodle.embed/de.flapdoodle.embed.process/3.0.1/d3fe378ffa77c80ef116b2522f822397a2ac80bc/de.flapdoodle.embed.process-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.flapdoodle.embed/de.flapdoodle.embed.process/3.0.1/5f13318b8ad6cc073abc75f706da5ff9cab40046/de.flapdoodle.embed.process-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
